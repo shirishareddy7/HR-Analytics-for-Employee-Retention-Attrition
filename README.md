@@ -13,7 +13,8 @@ To analyze employee data and identify key factors affecting attrition, retention
 ## 📂 Dataset Used
 - HR_1 & HR_2 datasets  
 - Dataset Type: Excel  
-- Dataset Size: 50k+ records each  
+- Dataset Size: 50k+ records each
+- <a href="https://github.com/shirishareddy7/HR-Analytics-for-Employee-Retention-Attrition/blob/main/FINAL%20EXCEL%20DASHBOARD%201%20(1).xlsx">Dataset</a>
 
 ---
 
